@@ -1,0 +1,2 @@
+Data is in the form: MoveX, MoveY, MoveZ ~ RotationX, RotationY, RotationZ (rotation in degrees).
+0,0,-.5 ~ 0,0,15
